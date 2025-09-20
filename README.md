@@ -1,2 +1,2 @@
-# lost-art-of-democracy
+# lost-art-of-voting
 Voting is great let's do it lots
